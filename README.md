@@ -2,5 +2,5 @@ simpleproxy
 ===========
 A simple HTTP/HTTPS proxy.
 I don't remember where I got it.
-Any way it works.
+It works anyway.
 FOR PERSONAL USE ONLY!
